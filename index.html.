@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>CV Paula Suárez</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px; background-color: #f4f4f4; }
+        header { background: #1572B6; color: white; padding: 20px; text-align: center; border-radius: 8px; }
+        section { background: white; padding: 20px; margin-top: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        h2 { color: #1572B6; border-bottom: 2px solid #1572B6; }
+        .tech-stack span { background: #eee; padding: 5px 10px; border-radius: 5px; margin-right: 5px; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Paula Suárez</h1>
+        <p>Programadora Junior | Estudiante de Ingeniería (UBA)</p>
+    </header>
+    
+    <section>
+        <h2>Sobre Mí</h2>
+        <p>Estudiante de Ingeniería Técnica apasionada por la resolución de problemas y la automatización con Python y JavaScript.</p>
+    </section>
+
+    <section>
+        <h2>Herramientas</h2>
+        <div class="tech-stack">
+            <span>HTML5</span> <span>CSS3</span> <span>Python</span> <span>Git/GitHub</span>
+        </div>
+    </section>
+
+    <section>
+        <h2>Proyectos</h2>
+        <ul>
+            <li><strong>Estandarización de Interfases:</strong> Optimización de CSS usando agentes de IA.</li>
+        </ul>
+    </section>
+</body>
+</html>
