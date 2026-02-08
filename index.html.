@@ -8,28 +8,6 @@
       .tech-badge { ... }
   </style> </head>
 
-<body>
-  <header>
-    <h1>¡Hola! Soy Pau Suarez...</h1>
-  </header>
-
-  <section>
-    <h2>Herramientas y Tecnologías</h2>
-    <p><i>Haz clic en cada área...</i></p>
-    <details>
-      <summary>🌐 Frontend</summary>
-      <div class="tech-list">
-        <span class="tech-badge">HTML5</span>
-        <span class="tech-badge">CSS3</span>
-        <span class="tech-badge">JavaScript</span>
-      </div>
-    </details>
-    </section> 
-    <header>
-        <h1>¡Hola! Soy Pau Suarez y este es mi CV!</h1>
-        <p>Desarrolladora Frontend en formación | Estudiante UBA</p>
-    </header>
-    
     <section>
         <h2>Sobre Mí</h2>
         <p>Actualmente me encuentro cursando el Ciclo Básico Común en la Universidad de Buenos Aires, enfocada en el desarrollo web y la mejora constante de procesos a través de tecnología.</p>
