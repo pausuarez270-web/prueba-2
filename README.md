@@ -35,11 +35,9 @@ Actualmente me encuentro cursando el Ciclo Básico Común en la *Universidad de 
 ### 📫 Contacto
 
 * *GitHub:* [pausuarez270-web](https://github.com/pausuarez270-web)
-* *LinkedIn:* [Tu Nombre de Usuario Aquí]
-
+* *LinkedIn:* https://www.linkedin.com/in/paula-suarez-493969234/
 ---
 
 ### ⚡ Datos curiosos
 * Me gusta resolver problemas de diseño aplicando soluciones técnicas eficientes.
 * Estoy aprendiendo a usar Git para gestionar mis propios proyectos de estudio.
-*
